@@ -14,6 +14,12 @@ If you have been a user of `mujoco-py`, you might be looking to migrate.
 Some pointers on migration are available [here](https://mujoco.readthedocs.io/en/latest/python.html#migration-notes-for-mujoco-py).
 
 # Install
+(Recommend) You can now install this package directly through PyPI as:
+```xml
+pip install multi-panel-mujoco-pyviewer
+```
+Or follow the steps below:
+
 ```sh
 git clone https://github.com/gaolongsen/multi-panel_mujoco-pyviewer.git
 ```
