@@ -87,7 +87,7 @@ img = viewer.read_pixels(camid=2)
 Our newest version package is uploaded to *[PyPI](https://pypi.org/)*! Now you can use 
 
 ```xml
-pip install multi-panel-mujoco-pyviewer==1.0.4
+pip install multi-panel-mujoco-pyviewer
 ```
 
 to install the library to your local environment! Any update for this library will be posted in this repository and also in PyPi page. See detail through this [link](https://pypi.org/project/multi-panel-mujoco-pyviewer/) :point_left:
