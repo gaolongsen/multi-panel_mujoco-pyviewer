@@ -181,8 +181,5 @@ Here is an example from one of our research work and you can see for the wrench 
 Note that in order to show the legends on your multiple data panel successfully. You must make sure `show_graph_legend` function must be behind of all of your `add_graph_line` functions.
 
 
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=gaolongsen/multi-panel_mujoco-pyviewer&type=Date)](https://www.star-history.com/#gaolongsen/multi-panel_mujoco-pyviewer&Date)
 
 
