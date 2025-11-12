@@ -59,11 +59,11 @@ viewer.close()
 The render should pop up and the simulation should be running.  
 Double-click on a geom and hold `Ctrl` to apply forces (using right mouse button) and torques (using left mouse button). This version we add the plot show on bottom-right side of the render windows as shown below:
 
-![ezgif-2-6758c40cdf](https://github.com/JackTony123/picx-images-hosting/raw/master/exp1.7w6lrjlcu0.gif)
+![](https://github.com/gaolongsen/picx-images-hosting/raw/master/three_arms_AC_satellite-ezgif.com-video-to-gif-converter.7axl7i0zdj.gif)
 
 
 
-![](https://github.com/JackTony123/picx-images-hosting/raw/master/exp2.6pnaiy0eby.gif)
+<img src="https://github.com/gaolongsen/picx-images-hosting/raw/master/three_tugs_AC_satellite-(1).8vnc6zc0nj.gif" style="zoom:200%;" />
 
 #### How to render offscreen?
 ```py
@@ -179,7 +179,6 @@ Here is an example from one of our research work and you can see for the wrench 
 <img src="https://github.com/JackTony123/picx-images-hosting/raw/master/two_panels_demo.5fklkfd2wz.webp" style="zoom:45%;" />
 
 Note that in order to show the legends on your multiple data panel successfully. You must make sure `show_graph_legend` function must be behind of all of your `add_graph_line` functions.
-
 
 
 
