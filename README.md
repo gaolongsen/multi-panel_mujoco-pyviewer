@@ -63,9 +63,11 @@ Double-click on a geom and hold `Ctrl` to apply forces (using right mouse button
 
 ![](https://github.com/gaolongsen/picx-images-hosting/raw/master/three_arms_AC_satellite-ezgif.com-video-to-gif-converter.7axl7i0zdj.gif)
 
+
+
 **Example 2**: Non-rigid Satellite Module Manipulation using Three Space Servicing Module
 
-<img src="https://github.com/gaolongsen/picx-images-hosting/raw/master/three_tugs_AC_satellite-(1).8vnc6zc0nj.gif" style="zoom:300%;" />W
+<img src="https://github.com/gaolongsen/picx-images-hosting/raw/master/three_tugs_AC_satellite-(1).8vnc6zc0nj.gif" style="zoom:200%;" />
 
 #### How to render offscreen?
 ```py
